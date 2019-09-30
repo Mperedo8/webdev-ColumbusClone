@@ -191,11 +191,7 @@ body{
 }
 
 
-#carouselteaching{
-    background-image: url(images/carosel\ teaching.jpg);
-    background-size: cover;
-   
-}
+
 
 #Grad{
     background-image: url(images/grad.jpg);
@@ -217,11 +213,28 @@ body{
 
 .explorebox2{
     /* height: 170px; */
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     display: inline-block;
 }
 
 .alignceter{
     text-align: center;
+}
+
+#exploresection2{
+    background-color: white;
+    margin-left: 300px;
+    height: 400px;
+    width: 100%;
+
+
+}
+
+#explorefacts{
+    background-color: white;
+}
+
+#teaching{
+    width: 150px;
 }
