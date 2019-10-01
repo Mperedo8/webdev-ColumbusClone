@@ -216,6 +216,7 @@ body{
     width: 300px;
     height: 300px;
     display: inline-block;
+    float: left;
 }
 
 .alignceter{
@@ -227,6 +228,7 @@ body{
     margin-left: 300px;
     height: 400px;
     width: 100%;
+    float: left;
 
 
 }
@@ -236,5 +238,31 @@ body{
 }
 
 #teaching{
-    width: 150px;
+    width: 300px;
+    height: 100 vh;
+}
+
+h2{
+    color: red;
+    text-align: center;
+}
+
+#grad{
+    width: 300px;
+    height: 100 vh;
+}
+
+#sports{
+    width: 300px;
+    height: 100 vh;
+}
+
+#puzzle{
+    width: 300px;
+    height: 100 vh;
+}
+
+h3{
+    color: black;
+    text-align: center;
 }
