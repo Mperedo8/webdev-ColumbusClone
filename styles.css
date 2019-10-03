@@ -125,7 +125,7 @@ body{
 
 }
 
-#explorecchs, #explorefacts{
+#explorefacts{
     height: 500px;
     width: 100vw;
     background-color: #10243b;
@@ -229,7 +229,8 @@ body{
     height: 400px;
     width: 100%;
     float: left;
-
+    padding-bottom: 120px;
+    
 
 }
 
@@ -245,6 +246,7 @@ body{
 h2{
     color: red;
     text-align: center;
+    padding: 20px;
 }
 
 #grad{
@@ -265,4 +267,47 @@ h2{
 h3{
     color: black;
     text-align: center;
+}
+
+#exploreblock{
+    height: 128px;
+    width: 1085px;
+    color: #10243b;
+    float: middle;
+}
+
+#explorecchs{
+    height: 400px;
+    width: 100vw;
+    background-color: #10243b;
+}
+
+h1{
+    padding: 20px;
+}
+
+#courses{
+    height: 120px;
+    width: 900px;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: auto;
+    font-size: 30px;
+    display: inline-block;
+    
+  
+}
+
+.ap{
+    display: inline-block;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#bluebox{
+    height: 120px;
+    width: 900px;
+    background-color: #10243b;
+    margin-left: 450px;
 }
